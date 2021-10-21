@@ -1,7 +1,8 @@
 #	Project	N
 ##	Game	Title
-*	STUDENT1NAME	(ID1)
-*	STUDENT2NAME	(ID2)
+* Georgia Buchanan (ghb23)
+* Jessie Gardner (jlp429)
+* Vidal Martinez (vrm55)
 ##	Instructions
 Describe	how	to	play	your	game.
 ##	Known	Bugs	or	Issues
