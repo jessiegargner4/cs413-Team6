@@ -1,4 +1,4 @@
-# CS499 - Virtual Worlds Group 6
+# CS413 - Virtual Worlds Group 6
 ## Contributors
 * Georgia Buchanan
 * Jessie Gardner
