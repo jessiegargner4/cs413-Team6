@@ -14,5 +14,4 @@ Describe	any	known	issues	with	your	game.
 *	Jessie Gardner:	Created	hero	sprite,	animation	sequence,	title	screen,	and	event	
 handling
 *	Georgia Buchanan:	Created	turkey sprite, normal and colored block sprites, mountain background with bushes, trees, and a sky for the actual playing rooms, instruction screen, win screen with animation and fail screen with animation.
-*	Vidal Martinez:	Created	enemy	sprite,	animation	sequence,	end	screen,	and	
-enemy	AI
+*	Vidal Martinez:	Updated turkey sprite, turkey animations, player movement, created background trees and clouds tile set, created ground sprites with nine splice to have flexible platforms, setup the physics for turkey movement and platform collision.
