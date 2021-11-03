@@ -11,7 +11,10 @@ It is Thanksgiving, so enjoy the celebration music while staying alive!
 ##	Known	Bugs	or	Issues
 Describe	any	known	issues	with	your	game.
 ##	Credits
-*	Jessie Gardner:	Created	hero	sprite,	animation	sequence,	title	screen,	and	event	
+*	Jessie Gardner:	Created all of the hunter sprites and sequences, as well as, wrote the code for 
+                  the sound of the hunters getting closer to the player. Created the bullet sprites,
+                  sounds, and original code for the bullets shooting towards the player. Created code
+                  for the timer of the bullets.
 handling
 *	Georgia Buchanan:	Created	turkey sprite, normal and colored block sprites, mountain background with bushes, trees, and a sky for the actual playing rooms, instruction screen, win screen with animation and fail screen with animation.
 *	Vidal Martinez:	Updated turkey sprite, turkey animations, player movement, created background trees and clouds tile set, created ground sprites with nine splice to have flexible platforms, setup the physics for turkey movement and platform collision.
