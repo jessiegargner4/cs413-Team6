@@ -1,5 +1,5 @@
 # Project 4 - Final Project
-## Christmas Cleanup
+## Title: Christmas Cleanup
 * Georgia Buchanan (ghb23)
 * Jessie Gardner (jlp429)
 * Vidal Martinez (vrm55)
